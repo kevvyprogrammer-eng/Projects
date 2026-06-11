@@ -19,7 +19,7 @@ Simple? Yes. But literally every concept I learned this week is packed in here �
 
 ## 🖥️ Output
 
-![Program Output](Output.png)
+![Program Output](Output.PNG)
 
 ---
 
